@@ -1,3 +1,3 @@
 FROM ubuntu 
 RUN apt-get update 
-CMD echo "ugeshtuuuuuuuuuuuuuuuuuuu"
+CMD echo "ugeshtuuuuuuuuuuuuuuuuuuuhru fime"
